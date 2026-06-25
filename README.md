@@ -29,3 +29,16 @@ This repository contains a machine learning workflow developed to predict the hi
 ├── .gitignore                     # Explicitly configured to ignore raw CSV/source files
 ├── requirements.txt               # Project Python dependencies
 └── README.md                      # Project documentation
+
+
+---
+
+## 🛠️ Setup & Installation
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/nishitameda-dev/IDX-Exchange.git](https://github.com/nishitameda-dev/IDX-Exchange.git)
+cd IDX-Exchange
+
+
+pip install -r requirements.txt
